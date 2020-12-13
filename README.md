@@ -1,2 +1,2 @@
 # hello-world
-Say hello with
+Saying hello with new changes, and get connected
